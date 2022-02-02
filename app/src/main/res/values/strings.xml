@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Hope</string>
+    <string name="Enter">Войти в аккаунт</string>
+    <string name="EnterE">Sign in</string>
+    <string name="Profile">Профиль</string>
+    <string name="Menu">Типа меню</string>
+    <string name="register">Register</string>
+    <string name="Exit">Exit</string>
+    <string name="Name">Эмиль</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Reg">Что-то на регистрационном</string>
+    <string name="test" />
+    <string name="registr">Ещё нет аккаунта?Зарагестируйтесь</string>
+</resources>
